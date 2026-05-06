@@ -1,2 +1,3 @@
-# codealpha_LanguageTranslationTool
-lingo-joy-main
+# Welcome to your Lovable project
+
+TODO: Document your project here
